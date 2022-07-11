@@ -1,3 +1,4 @@
+
 ![*Learning Full Stack Web Development*](https://www.talosdigital.com/wp-content/uploads/2020/09/ComputerProgramming_Image-1024x512.png)
 
 ### Hi there 👋, I'm Melvin K J
@@ -23,7 +24,7 @@ Skills: **JAVA/ PYTHON/ DJANGO/ REACT/ JS/ CSS/ HTML**
 
 <h4>Links:</h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Melvin-KJ)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/github.svg' alt='github' height='40'>](https://github.com/Melvin-KJ)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/melvinkj6) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melvin-kj/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MELVINKJ6) 
