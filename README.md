@@ -1,31 +1,29 @@
+<h1 align="center">Hey there! 👋, I'm Melvin K J</h1>
+<h3 align="center">I'm a passionate and curious 22-year-old aspiring Frontend Developer on a journey to craft engaging and visually appealing web experiences. My love for technology and design fuels my determination to continuously learn and grow in the ever-evolving world of web development.</h3>
 
-![*Learning Full Stack Web Development*](https://www.talosdigital.com/wp-content/uploads/2020/09/ComputerProgramming_Image-1024x512.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-kj&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-kj" /> </p>
 
-### Hi there 👋, I'm Melvin K J
-#### *Learning Full Stack Web Development*
-*I'm Melvin from India, and I am a final year BTech student. I really enjoy learning languages and frameworks like React and Django, as well as work in WordPress and Wagtail CMS.*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melvin-kj" alt="melvin-kj" /></a> </p>
 
-Skills: **JAVA/ PYTHON/ DJANGO/ REACT/ JS/ CSS/ HTML**
+<p align="left"> <a href="https://twitter.com/melvin_codes" target="blank"><img src="https://img.shields.io/twitter/follow/melvin_codes?logo=twitter&style=for-the-badge" alt="melvin_codes" /></a> </p>
 
+- 🌱 I’m currently learning **HTML, CSS & JavaScript**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Melvin-KJ&show_icons=true&theme=radical" />
+- 📫 How to reach me **melvinofficial2001@gmail.com**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-KJ&layout=compact" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/melvin_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melvin_codes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melvin-kj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-kj" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/0xtechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0xtechie" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/melvinkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="melvinkj" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvin-kj&show_icons=true&locale=en&layout=compact" alt="melvin-kj" /></p>
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melvin-kj&show_icons=true&locale=en" alt="melvin-kj" /></p>
 
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img  alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-<h4>Links:</h4>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/github.svg' alt='github' height='40'>](https://github.com/Melvin-KJ)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/melvinkj6) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melvin-kj/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MELVINKJ6) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/CSE_R19CS188) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melvin-kj&" alt="melvin-kj" /></p>
