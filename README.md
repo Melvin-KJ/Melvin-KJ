@@ -31,5 +31,6 @@ I love exploring **new technologies** and experimenting with them to create **un
 ![](https://github-readme-stats.vercel.app/api?username=Melvin-KJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Melvin-KJ&theme=vue-dark&hide_border=true)<br/>
 
+![snake animation](https://github.com/Melvin-KJ/Melvin-KJ/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
