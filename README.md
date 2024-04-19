@@ -24,13 +24,10 @@ I love exploring **new technologies** and experimenting with them to create **un
   <a href="https://twitter.com/Melvin_Codes" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/melvin.codes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: melvinofficial2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
+</div>
 </br>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Melvin-KJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Melvin-KJ&theme=vue-dark&hide_border=true)<br/>
-
-![snake animation](https://github.com/Melvin-KJ/Melvin-KJ/blob/output/github-contribution-grid-snake2.svg)
- 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-KJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
