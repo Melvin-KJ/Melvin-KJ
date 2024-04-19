@@ -13,21 +13,23 @@ I love exploring **new technologies** and experimenting with them to create **un
 **Version Control:** `Git`
  
 ## ✨ Fun Facts 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6bm1zMm52YzZpMng0N2drdDgwNXQ4ZXA4Z2N1bTFmcXdldmQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" width="300" height="200" />
 
 - Naruto is my favorite anime.
 - As a kid, I wanted to be a software engineer🖥️.
-  
-## 📫 Contact
 
-<h3 align="left">Connect with me:</h3>
-<div id="badges">
-  <a href="https://linkedin.com/in/melvin-kj" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/melvin_codes" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+## 📫 Contact 
+
+<div> 
+  <a href="https://www.linkedin.com/in/melvin-kj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/Melvin_Codes" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/melvin.codes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: melvinofficial2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Melvin-KJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Melvin-KJ&theme=vue-dark&hide_border=true)<br/>
+
+ 
 </div>
-
- For a quick response, DM me on **melvinofficial2001@gmail.com**
