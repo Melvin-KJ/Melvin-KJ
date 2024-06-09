@@ -12,11 +12,6 @@ I love exploring **new technologies** and experimenting with them to create **un
  
 **Version Control:** `Git`
  
-## ✨ Fun Facts 
-
-- Naruto is my favorite anime.
-- As a kid, I wanted to be a software engineer🖥️.
-
 ## 📫 Contact 
 
 <div> 
