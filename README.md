@@ -1,6 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
-
-
 ## Hey, I'm Melvin 👋🏽  
 
 I'm a passionate 23-year-old developer who **loves building cool stuff**.
