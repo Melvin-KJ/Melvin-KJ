@@ -27,7 +27,6 @@ I love exploring **new technologies** and experimenting with them to create **un
 
 ## 📊 GitHub Stats
 <div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Melvin-KJ&theme=vue-dark&hide_border=true" width="400"><br>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-KJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"><br>
 <img height="300" src="https://github-contributor-stats.vercel.app/api?username=Melvin-KJ&amp;limit=5&amp;theme=vue-dark&hide_border=true&amp;combine_all_yearly_contributions=true" width="400"><br>
 <img height="25" src="https://visitcount.itsvg.in/api?id=Melvin-KJ&amp;icon=5&amp;color=12" width="150"/>
